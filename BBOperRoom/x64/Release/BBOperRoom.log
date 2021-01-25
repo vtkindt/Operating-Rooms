@@ -1,0 +1,20 @@
+﻿cl : Ligne de commande warning D9025: substitution de '/sdl' par '/GS-'
+  Node.cpp
+c:\onedrive vincent tkindt\onedrive - université de tours\recherche\programmes\knapsackoperrooms\branchbound\Node.h(57): warning C4267: 'return' : conversion de 'size_t' en 'unsigned int', perte possible de données
+c:\onedrive vincent tkindt\onedrive - université de tours\recherche\programmes\knapsackoperrooms\branchbound\Node.h(58): warning C4267: 'return' : conversion de 'size_t' en 'unsigned int', perte possible de données
+c:\onedrive vincent tkindt\onedrive - université de tours\recherche\programmes\knapsackoperrooms\branchbound\Node.h(79): warning C4267: 'return' : conversion de 'size_t' en 'unsigned int', perte possible de données
+c:\onedrive vincent tkindt\onedrive - université de tours\recherche\programmes\knapsackoperrooms\branchbound\Node.h(80): warning C4267: 'return' : conversion de 'size_t' en 'unsigned int', perte possible de données
+c:\onedrive vincent tkindt\onedrive - université de tours\recherche\programmes\knapsackoperrooms\branchbound\Node.h(81): warning C4267: 'return' : conversion de 'size_t' en 'unsigned int', perte possible de données
+..\Node.cpp(393): warning C4267: '+=' : conversion de 'size_t' en 'unsigned int', perte possible de données
+..\Node.cpp(415): warning C4267: '+=' : conversion de 'size_t' en 'unsigned int', perte possible de données
+..\Node.cpp(446): warning C4267: '=' : conversion de 'size_t' en 'unsigned int', perte possible de données
+..\Node.cpp(494): warning C4267: 'argument' : conversion de 'size_t' en 'unsigned int', perte possible de données
+..\Node.cpp(496): warning C4267: '+=' : conversion de 'size_t' en 'unsigned int', perte possible de données
+..\Node.cpp(542): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+  Génération de code en cours
+  4 of 548 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  BBOperRoom.vcxproj -> C:\OneDrive Vincent Tkindt\OneDrive - Université de Tours\Recherche\Programmes\KnapsackOperRooms\BranchBound\BBOperRoom\x64\Release\BBOperRoom.exe

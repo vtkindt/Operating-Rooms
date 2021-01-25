@@ -1,0 +1,3 @@
+﻿cl : Ligne de commande warning D9025: substitution de '/sdl' par '/GS-'
+  Node.cpp
+  BBOperRoom.vcxproj -> C:\OneDrive Vincent Tkindt\OneDrive - Université de Tours\Recherche\Programmes\KnapsackOperRooms\BranchBound\BBOperRoom\x64\Debug\BBOperRoom.exe

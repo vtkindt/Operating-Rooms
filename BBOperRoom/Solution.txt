@@ -1,0 +1,41 @@
+Solution at the current node:
+Machine 1 : 
+	 Blue jobs before : 7 13 18 
+	 Red jobs start at 0 and are : 
+	 Blue jobs after : 
+Machine 2 : 
+	 Blue jobs before : 26 31 35 
+	 Red jobs start at 0 and are : 
+	 Blue jobs after : 
+Machine 3 : 
+	 Blue jobs before : 41 52 
+	 Red jobs start at 0 and are : 
+	 Blue jobs after : 
+Machine 4 : 
+	 Blue jobs before : 65 67 70 
+	 Red jobs start at 0 and are : 
+	 Blue jobs after : 
+Machine 5 : 
+	 Blue jobs before : 
+	 Red jobs start at 10 and are : 96 97 
+	 Blue jobs after : 91 
+Machine 6 : 
+	 Blue jobs before : 101 107 111 
+	 Red jobs start at 0 and are : 
+	 Blue jobs after : 
+Machine 7 : 
+	 Blue jobs before : 129 130 
+	 Red jobs start at 0 and are : 
+	 Blue jobs after : 
+Machine 8 : 
+	 Blue jobs before : 146 149 
+	 Red jobs start at 0 and are : 
+	 Blue jobs after : 
+Machine 9 : 
+	 Blue jobs before : 165 166 
+	 Red jobs start at 254 and are : 175 
+	 Blue jobs after : 
+Machine 10 : 
+	 Blue jobs before : 181 185 195 
+	 Red jobs start at 0 and are : 
+	 Blue jobs after : 
